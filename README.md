@@ -1,53 +1,71 @@
-# Status.Health Community Brand Guidelines
+# status.health® Brand and Style Guidelines
 
-<img src="./assets/logo.png" alt="Status.Health Logo" width="160"/>
+<img src="./assets/logo.png" alt="status.health Logo" width="160"/>
 
 ## Table of Contents
 
 1. [About Status.Health](#about-statushealth)
-2. [Brand Elements](#brand-elements)
+2. [Trademark and Legal Information](#trademark-and-legal-information)
+3. [Brand Elements](#brand-elements)
    - [Name Usage](#name-usage)
    - [Logo](#logo)
    - [Color Palette](#color-palette)
    - [Typography](#typography)
    - [Rainbow Elements](#rainbow-elements)
-3. [Voice and Tone](#voice-and-tone)
-   - [Brand Voice](#brand-voice)
-   - [Community Communication](#community-communication)
-   - [Inclusive Language](#inclusive-language)
-   - [Key Messages](#key-messages)
-4. [Design Elements](#design-elements)
-   - [Buttons](#buttons)
-   - [Cards](#cards)
-   - [Navigation](#navigation)
-   - [Layout](#layout)
-5. [Accessibility](#accessibility)
-6. [Contributing](#contributing)
-7. [Community Resources](#community-resources)
+4. [Voice and Tone](#voice-and-tone)
+5. [Design Elements](#design-elements)
+6. [Accessibility](#accessibility)
+7. [Usage Guidelines](#usage-guidelines)
+8. [Contact Information](#contact-information)
 
-## About Status.Health
+## About status.health
 
-Status.Health is an open, privacy-focused platform designed to allow users to verify and share their STD testing status through a zero-knowledge proof system. Our platform enables individuals to confidentially verify their testing history without exposing sensitive medical information, while incentivizing regular testing through a gamified points system.
+status.health® is a proprietary, privacy-focused platform designed by STD Verify®, SPC to allow users to verify and share their STD testing status through a zero-knowledge proof system. Our platform enables individuals to confidentially verify their testing history without exposing sensitive medical information, while incentivizing regular testing through a gamified points system.
 
-Our community values:
+Our values:
 - **Privacy**: Zero-knowledge proofs ensure medical data is never stored or shared
 - **Community**: Explicitly LGBTQ+ friendly and community-centered
 - **Empowerment**: Supporting user autonomy and informed choices
 - **Transparency**: Clear communication about how our technology works
 - **Inclusivity**: Creating a stigma-free approach to sexual health
 
+## Trademark and Legal Information
+
+Status.Health® is a registered trademark of STD Verify®, SPC. The software, design, and all content associated with Status.Health are patent-pending, proprietary, and protected by copyright law.
+
+### Trademark Requirements
+
+| Official Name | Format | Usage |
+|---------------|--------|-------|
+| STD Verify® | Always include the ® symbol on first mention per page | Parent company name; use for corporate communications, legal documents, and formal references |
+| STD Verify®, SPC | Include "SPC" when referencing the corporate entity | Full legal name; use for contracts, agreements, official documents |
+| status.health® | Always lowercase, include the ® symbol on first mention per page | Product name; use when referring to the platform, app, or service |
+
+### Correct Formatting Examples
+
+* **Corporate documents:** STD Verify®, SPC ("STD Verify" in subsequent mentions)
+* **Website header:** STD Verify® | Know Your Status
+* **App references:** status.health® makes sharing your verification simple
+* **Email signature:** © 2025 STD Verify®, SPC. All rights reserved.
+
+### Incorrect Usage
+
+* ~~STD-Verify~~ (do not hyphenate)
+* ~~StdVerify~~ (incorrect capitalization)
+* ~~Status.Health~~ (incorrect capitalization)
+* ~~STD Verify Inc.~~ (incorrect corporate designation)
+
 ## Brand Elements
 
 ### Name Usage
 
-| Brand Name | Format | Usage |
-|------------|--------|-------|
-| **status.health** | Always lowercase | Product name; use when referring to the platform, app, or service |
-| **STD Verify** | Proper case | Parent company name; use for corporate communications |
+When referring to our brands in text:
 
-**Example Usage:**
-- "status.health helps you privately share your verification status"
-- "STD Verify is the company behind the status.health platform"
+- **STD Verify®**: Must include the ® symbol on first mention per page. On subsequent mentions, the ® symbol is optional but company name must be capitalized correctly.
+- **status.health®**: Always use lowercase for both "status" and "health" with a lowercase dot in between. Include the ® symbol on first mention per page.
+- **Full Legal Name**: When referencing the company in legal documents, use "STD Verify®, SPC"
+
+*Note: All references to our brands must adhere to these guidelines when creating any public-facing materials.*
 
 ### Logo
 
@@ -187,25 +205,42 @@ The logo aura creates a rainbow halo effect around our logo.
 
 ### Brand Voice
 
-Our community voice represents our shared values and should be consistent across all communications.
+Our brand voice represents our values and should be consistent across all communications.
 
 #### Voice Attributes
 
 - **Positive:** Focus on empowerment and solutions rather than fear or stigma
 - **Inclusive:** Explicitly LGBTQ+ friendly and community-centered
-- **Approachable:** Welcoming to both technical and non-technical contributors
+- **Professional yet approachable:** Balance medical authority with warmth
 - **Direct and clear:** Present information in straightforward language
-- **Empowering:** Emphasize user autonomy and knowledge-sharing
+- **Empowering:** Emphasize user autonomy and knowledge
 
 #### Voice Examples
 
 | ✅ DO | ❌ DON'T |
 |-------|---------|
 | "Regular testing helps build confidence in your sexual health" | "Get tested or risk dangerous infections" |
-| "Our platform rewards users for making informed choices" | "Our platform will solve all your problems" |
-| "We designed our verification system to protect privacy" | "We use advanced technology that most people don't understand" |
+| "status.health® rewards you for making informed choices" | "Our platform will solve all your problems" |
+| "We designed our verification system to protect your privacy" | "We use advanced technology that most people don't understand" |
 | "Know your status—because confidence is the ultimate turn-on" | "Don't be irresponsible with your health" |
-| "Let's collaborate to make this feature more accessible" | "This is the only correct way to implement this feature" |
+
+### Tone Guidelines
+
+While our voice stays consistent, our tone may shift slightly depending on the context and medium.
+
+- **Website:** Informative and confident, with a focus on benefits and features
+- **Email:** Friendly and direct, with clear calls to action
+- **FAQs:** Straightforward and helpful, anticipating user questions
+- **Error messages:** Empathetic and solution-oriented, never blaming the user
+- **Legal/Privacy content:** Clear and transparent, avoiding unnecessary jargon
+
+### Preferred Language
+
+- "Sexual health" instead of "sexual disease prevention"
+- "Testing frequency" or "testing history" instead of "test results"
+- "Privacy-preserving" or "zero-knowledge" instead of "hidden" or "secret"
+- "Users" instead of "customers" or "clients"
+- "Verify" or "verification" instead of "prove" or "proof"
 
 ### Community Communication
 
@@ -400,36 +435,48 @@ When contributing to Status.Health, remember:
 - Help create a safe space for all community members
 - Follow our [Code of Conduct](CODE_OF_CONDUCT.md)
 
-## Contributing
+## Usage Guidelines
 
-We welcome community contributions to Status.Health! Here's how you can get involved:
+Status.Health® is proprietary software, and these brand guidelines govern the proper representation of our brand in authorized contexts only.
 
-### Code Contributions
-- Fork this repository
-- Create a feature branch (`git checkout -b feature/amazing-feature`)
-- Commit your changes (`git commit -m 'Add some amazing feature'`)
-- Push to the branch (`git push origin feature/amazing-feature`)
-- Open a Pull Request
+### Authorized Usage
 
-### Design Contributions
-- Follow the brand guidelines when creating designs
-- Share design concepts or improvements in the Discussions section
-- Consider accessibility in all designs
+This brand styling guide is provided for:
+- Authorized partners with formal agreements
+- Media representatives for accurate brand representation
+- Developers working with our official APIs under license
+- Marketing agencies contracted by STD Verify®, SPC
 
-### Documentation
-- Help improve these guidelines
-- Create tutorials or guides for using Status.Health
-- Translate documentation into other languages
+### Prohibited Usage
 
-## Community Resources
+The following are explicitly prohibited:
+- Creating derivative works based on Status.Health® software or brand assets
+- Modifying or altering the Status.Health® logo or brand elements
+- Implying endorsement or affiliation without written authorization
+- Redistributing brand assets without permission
+- Using trademarks in ways that could cause confusion
 
-- **Website**: [stdverify.org](https://stdverify.org)
-- **GitHub Repository**: [github.com/stdverify/status.health](https://github.com/stdverify/status.health)
-- **Community Forum**: [github.com/stdverify/status.health/discussions](https://github.com/stdverify/status.health/discussions)
-- **Issue Tracker**: [github.com/stdverify/status.health/issues](https://github.com/stdverify/status.health/issues)
+### Legal Notices
 
----
+All materials must include appropriate copyright and trademark notices:
+- © 2025 STD Verify®, SPC. All rights reserved.
+- Status.Health® is a registered trademark of STD Verify®, SPC.
+- The technology and design of Status.Health® are patent-pending.
 
-Released under MIT License. See [LICENSE](LICENSE) for details.
+### Taglines and Protected Phrases
 
-Status.Health is a project maintained by STD Verify, SPC.
+| Tagline | Format | Usage |
+|---------|--------|-------|
+| be tested. be sexy. be rewarded. 🏳️‍🌈™ | Lowercase, with periods, pride flag emoji, ™ symbol | Primary consumer-facing tagline |
+| STD Tests Are Hot. Guesswork Is Not. | Sentence case, periods | Secondary tagline for marketing materials |
+| More Play, Less Delay | Title case, no final period | Casual promotional tagline |
+
+## Contact Information
+
+For inquiries regarding brand usage and permissions:
+
+- Website: [stdverify.org](https://stdverify.org)
+- Email: [legal@stdverify.org](mailto:legal@stdverify.org)
+- Partnership Inquiries: [partners@stdverify.org](mailto:partners@stdverify.org)
+
+© 2025 STD Verify®, SPC. All rights reserved. status.health® is a registered trademark. Patent pending.
