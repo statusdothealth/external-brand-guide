@@ -36,8 +36,8 @@ status.health® is a registered trademark of STD Verify®, SPC. The software, de
 ### Correct Formatting Examples
 
 * **Corporate documents:** STD Verify®, SPC ("STD Verify" in subsequent mentions)
-* **Website header:** STD Verify® | Know Your Status
-* **App references:** status.health® makes sharing your verification simple
+* **Website header:** STD Verify® | Always Be Tested
+* **App references:** status.health® safe, fun, rewarding!
 * **Email signature:** © 2025 STD Verify®, SPC. All rights reserved.
 
 ### Incorrect Usage
@@ -81,7 +81,7 @@ Our logo consists of a distinctive circular emblem with a rainbow aura effect th
 |---------|--------|-------|
 | be tested. be sexy. be rewarded. 🏳️‍🌈™ | Lowercase, with periods, pride flag emoji, ™ symbol | Primary consumer-facing tagline |
 | be tested. be sexy. be rewarded. 🌈™ | Lowercase, with periods, rainbow emoji, ™ symbol | Alternative consumer-facing tagline |
-| STD Tests Are Hot. Guesswork Is Not. | Sentence case, periods | Secondary tagline for marketing materials |
+| Being Tested Is Hot. Guesswork Is Not. | Sentence case, periods | Secondary tagline for marketing materials |
 | More Play, Less Delay | Title case, no final period | Casual promotional tagline |
 
 ### Inclusive Design
