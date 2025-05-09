@@ -4,14 +4,9 @@
 
 ## Table of Contents
 
-1. [About Status.Health](#about-statushealth)
+1. [About status.health](#about-statushealth)
 2. [Trademark and Legal Information](#trademark-and-legal-information)
 3. [Brand Elements](#brand-elements)
-   - [Name Usage](#name-usage)
-   - [Logo](#logo)
-   - [Color Palette](#color-palette)
-   - [Typography](#typography)
-   - [Rainbow Elements](#rainbow-elements)
 4. [Voice and Tone](#voice-and-tone)
 5. [Design Elements](#design-elements)
 6. [Accessibility](#accessibility)
@@ -31,7 +26,7 @@ Our values:
 
 ## Trademark and Legal Information
 
-Status.Health® is a registered trademark of STD Verify®, SPC. The software, design, and all content associated with Status.Health are patent-pending, proprietary, and protected by copyright law.
+status.health® is a registered trademark of STD Verify®, SPC. The software, design, and all content associated with status.health are patent-pending, proprietary, and protected by copyright law.
 
 ### Trademark Requirements
 
@@ -242,46 +237,14 @@ While our voice stays consistent, our tone may shift slightly depending on the c
 - "Users" instead of "customers" or "clients"
 - "Verify" or "verification" instead of "prove" or "proof"
 
-### Community Communication
+### Taglines and Protected Phrases
 
-When communicating within the Status.Health community, our tone should be:
-
-- **Inclusive**: Welcoming to everyone regardless of background or identity
-- **Supportive**: Encouraging to new contributors and users
-- **Educational**: Explaining concepts clearly without being condescending
-- **Transparent**: Open about processes, decisions, and challenges
-- **Constructive**: Providing helpful feedback and solutions
-
-### Inclusive Language
-
-Our community values inclusive language that respects all individuals:
-
-- "Sexual health" instead of "sexual disease prevention"
-- "Testing frequency" or "testing history" instead of "test results"
-- "Privacy-preserving" or "zero-knowledge" instead of "hidden" or "secret"
-- "Community members" or "users" instead of "customers" or "clients"
-- "Verify" or "verification" instead of "prove" or "proof"
-
-### Technical Communication
-
-When discussing technical aspects of our platform:
-
-- Define terms clearly on first use
-- Balance accuracy with accessibility
-- Use analogies to explain complex concepts
-- Avoid unnecessary jargon
-- When using abbreviations, spell them out on first reference (e.g., "Zero-Knowledge Proofs (ZKPs)")
-- Share knowledge generously but respectfully
-
-### Key Messages
-
-Our community emphasizes these core messages:
-
-- Privacy and security are fundamental rights in healthcare
-- Technology should empower individuals to take control of their health
-- Breaking stigma around STD testing creates healthier communities
-- Open-source collaboration leads to better, more accessible solutions
-- Inclusive design benefits everyone
+| Tagline | Format | Usage |
+|---------|--------|-------|
+| be tested. be sexy. be rewarded. 🏳️‍🌈™ | Lowercase, with periods, pride flag emoji, ™ symbol | Primary consumer-facing tagline |
+| be tested. be sexy. be rewarded. 🌈™ | Lowercase, with periods, rainbow emoji, ™ symbol | Alternative consumer-facing tagline |
+| STD Tests Are Hot. Guesswork Is Not. | Sentence case, periods | Secondary tagline for marketing materials |
+| More Play, Less Delay | Title case, no final period | Casual promotional tagline |
 
 ## Design Elements
 
@@ -395,7 +358,7 @@ The navigation bar is fixed at the top of every page with a subtle shadow effect
 
 ## Accessibility
 
-Status.Health is committed to WCAG 2.1 AA compliance. All digital products should:
+status.health® is committed to WCAG 2.1 AA compliance. All digital products should:
 
 - Use semantic HTML elements for proper document structure
 - Maintain a minimum contrast ratio of 4.5:1 for normal text and 3:1 for large text
@@ -404,18 +367,9 @@ Status.Health is committed to WCAG 2.1 AA compliance. All digital products shoul
 - Support keyboard navigation for all functionality
 - Respect user preferences with the `prefers-reduced-motion` media query
 
-## Accessibility
+### Inclusive Design
 
-Status.Health is committed to creating an accessible platform for all users. We follow WCAG 2.1 AA standards and encourage the community to help maintain these practices:
-
-- Use semantic HTML elements for proper document structure
-- Maintain a minimum contrast ratio of 4.5:1 for normal text and 3:1 for large text
-- Ensure all interactive elements have visible focus states
-- Provide text alternatives for non-text content
-- Support keyboard navigation for all functionality
-- Respect user preferences with the `prefers-reduced-motion` media query
-
-### Inclusive Communication
+When designing and creating content for status.health®, remember:
 
 - Use gender-neutral language when addressing users collectively
 - Avoid assumptions about gender or sexuality
@@ -425,19 +379,9 @@ Status.Health is committed to creating an accessible platform for all users. We 
 - Frame privacy features as empowering rather than hiding or concealing
 - Consider international audiences and avoid US-centric terminology
 
-### Community Standards
-
-When contributing to Status.Health, remember:
-
-- Be respectful and considerate in all communications
-- Provide constructive feedback
-- Focus on solutions rather than problems
-- Help create a safe space for all community members
-- Follow our [Code of Conduct](CODE_OF_CONDUCT.md)
-
 ## Usage Guidelines
 
-Status.Health® is proprietary software, and these brand guidelines govern the proper representation of our brand in authorized contexts only.
+status.health® is proprietary software, and these brand guidelines govern the proper representation of our brand in authorized contexts only.
 
 ### Authorized Usage
 
@@ -450,8 +394,8 @@ This brand styling guide is provided for:
 ### Prohibited Usage
 
 The following are explicitly prohibited:
-- Creating derivative works based on Status.Health® software or brand assets
-- Modifying or altering the Status.Health® logo or brand elements
+- Creating derivative works based on status.health® software or brand assets
+- Modifying or altering the status.health® logo or brand elements
 - Implying endorsement or affiliation without written authorization
 - Redistributing brand assets without permission
 - Using trademarks in ways that could cause confusion
@@ -460,16 +404,8 @@ The following are explicitly prohibited:
 
 All materials must include appropriate copyright and trademark notices:
 - © 2025 STD Verify®, SPC. All rights reserved.
-- Status.Health® is a registered trademark of STD Verify®, SPC.
-- The technology and design of Status.Health® are patent-pending.
-
-### Taglines and Protected Phrases
-
-| Tagline | Format | Usage |
-|---------|--------|-------|
-| be tested. be sexy. be rewarded. 🏳️‍🌈™ | Lowercase, with periods, pride flag emoji, ™ symbol | Primary consumer-facing tagline |
-| STD Tests Are Hot. Guesswork Is Not. | Sentence case, periods | Secondary tagline for marketing materials |
-| More Play, Less Delay | Title case, no final period | Casual promotional tagline |
+- status.health® is a registered trademark of STD Verify®, SPC.
+- The technology and design of status.health® are patent-pending.
 
 ## Contact Information
 
