@@ -7,9 +7,8 @@
 1. [About status.health](#about-statushealth)
 2. [Trademark and Legal Information](#trademark-and-legal-information)
 3. [Brand Elements](#brand-elements)
-4. [Accessibility](#accessibility)
-5. [Usage Guidelines](#usage-guidelines)
-6. [Contact Information](#contact-information)
+4. [Usage Guidelines](#usage-guidelines)
+5. [Contact Information](#contact-information)
 
 ## About status.health
 
