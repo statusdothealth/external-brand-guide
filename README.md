@@ -1,10 +1,10 @@
-# Status.Health Brand and Style Guidelines
+# Status.Health Community Brand Guidelines
 
 <img src="./assets/logo.png" alt="Status.Health Logo" width="160"/>
 
 ## Table of Contents
 
-1. [Brand Overview](#brand-overview)
+1. [About Status.Health](#about-statushealth)
 2. [Brand Elements](#brand-elements)
    - [Name Usage](#name-usage)
    - [Logo](#logo)
@@ -13,23 +13,23 @@
    - [Rainbow Elements](#rainbow-elements)
 3. [Voice and Tone](#voice-and-tone)
    - [Brand Voice](#brand-voice)
-   - [Tone Guidelines](#tone-guidelines)
-   - [Language](#language)
-   - [Taglines](#taglines)
+   - [Community Communication](#community-communication)
+   - [Inclusive Language](#inclusive-language)
+   - [Key Messages](#key-messages)
 4. [Design Elements](#design-elements)
    - [Buttons](#buttons)
    - [Cards](#cards)
    - [Navigation](#navigation)
    - [Layout](#layout)
 5. [Accessibility](#accessibility)
-6. [Content Guidelines](#content-guidelines)
-7. [Contact](#contact)
+6. [Contributing](#contributing)
+7. [Community Resources](#community-resources)
 
-## Brand Overview
+## About Status.Health
 
-Status.Health is a secure, privacy-focused platform designed to allow users to verify and share their STD testing status through a zero-knowledge proof system. The service enables individuals to confidentially verify their testing history without exposing sensitive medical information, while incentivizing regular testing through a gamified points system.
+Status.Health is an open, privacy-focused platform designed to allow users to verify and share their STD testing status through a zero-knowledge proof system. Our platform enables individuals to confidentially verify their testing history without exposing sensitive medical information, while incentivizing regular testing through a gamified points system.
 
-Our brand identity reflects our core values:
+Our community values:
 - **Privacy**: Zero-knowledge proofs ensure medical data is never stored or shared
 - **Community**: Explicitly LGBTQ+ friendly and community-centered
 - **Empowerment**: Supporting user autonomy and informed choices
@@ -187,46 +187,47 @@ The logo aura creates a rainbow halo effect around our logo.
 
 ### Brand Voice
 
-Our brand voice represents our personality and values in written form. It should be consistent across all communications.
+Our community voice represents our shared values and should be consistent across all communications.
 
 #### Voice Attributes
 
 - **Positive:** Focus on empowerment and solutions rather than fear or stigma
 - **Inclusive:** Explicitly LGBTQ+ friendly and community-centered
-- **Professional yet approachable:** Balance medical authority with warmth
+- **Approachable:** Welcoming to both technical and non-technical contributors
 - **Direct and clear:** Present information in straightforward language
-- **Empowering:** Emphasize user autonomy and knowledge
+- **Empowering:** Emphasize user autonomy and knowledge-sharing
 
 #### Voice Examples
 
 | ✅ DO | ❌ DON'T |
 |-------|---------|
 | "Regular testing helps build confidence in your sexual health" | "Get tested or risk dangerous infections" |
-| "Our platform rewards you for making informed choices" | "Our platform will solve all your problems" |
-| "We designed our verification system to protect your privacy" | "We use advanced technology that most people don't understand" |
+| "Our platform rewards users for making informed choices" | "Our platform will solve all your problems" |
+| "We designed our verification system to protect privacy" | "We use advanced technology that most people don't understand" |
 | "Know your status—because confidence is the ultimate turn-on" | "Don't be irresponsible with your health" |
+| "Let's collaborate to make this feature more accessible" | "This is the only correct way to implement this feature" |
 
-### Tone Guidelines
+### Community Communication
 
-While our voice stays consistent, our tone may shift slightly depending on the context and medium. However, it should always remain within the parameters of our brand voice.
+When communicating within the Status.Health community, our tone should be:
 
-- **Website:** Informative and confident, with a focus on benefits and features
-- **Email:** Friendly and direct, with clear calls to action
-- **FAQs:** Straightforward and helpful, anticipating user questions
-- **Error messages:** Empathetic and solution-oriented, never blaming the user
-- **Legal/Privacy content:** Clear and transparent, avoiding unnecessary jargon
+- **Inclusive**: Welcoming to everyone regardless of background or identity
+- **Supportive**: Encouraging to new contributors and users
+- **Educational**: Explaining concepts clearly without being condescending
+- **Transparent**: Open about processes, decisions, and challenges
+- **Constructive**: Providing helpful feedback and solutions
 
-### Language
+### Inclusive Language
 
-#### Words and Phrases to Use
+Our community values inclusive language that respects all individuals:
 
 - "Sexual health" instead of "sexual disease prevention"
 - "Testing frequency" or "testing history" instead of "test results"
 - "Privacy-preserving" or "zero-knowledge" instead of "hidden" or "secret"
-- "Community" or "users" instead of "customers" or "clients"
+- "Community members" or "users" instead of "customers" or "clients"
 - "Verify" or "verification" instead of "prove" or "proof"
 
-#### Technical Terminology
+### Technical Communication
 
 When discussing technical aspects of our platform:
 
@@ -235,17 +236,17 @@ When discussing technical aspects of our platform:
 - Use analogies to explain complex concepts
 - Avoid unnecessary jargon
 - When using abbreviations, spell them out on first reference (e.g., "Zero-Knowledge Proofs (ZKPs)")
+- Share knowledge generously but respectfully
 
-### Taglines
+### Key Messages
 
-Use these established taglines to maintain brand consistency:
+Our community emphasizes these core messages:
 
-- "STD Tests Are Hot. Guesswork Is Not."
-- "More Play, Less Delay"
-- "be tested. be sexy. be rewarded. 🏳️‍🌈™"
-- "Testing regularly leads to playing regularly."
-- "With status.health, it's more hookups, less hangups."
-- "Because your health should never be a gamble."
+- Privacy and security are fundamental rights in healthcare
+- Technology should empower individuals to take control of their health
+- Breaking stigma around STD testing creates healthier communities
+- Open-source collaboration leads to better, more accessible solutions
+- Inclusive design benefits everyone
 
 ## Design Elements
 
@@ -368,28 +369,18 @@ Status.Health is committed to WCAG 2.1 AA compliance. All digital products shoul
 - Support keyboard navigation for all functionality
 - Respect user preferences with the `prefers-reduced-motion` media query
 
-## Content Guidelines
+## Accessibility
 
-### Structure
+Status.Health is committed to creating an accessible platform for all users. We follow WCAG 2.1 AA standards and encourage the community to help maintain these practices:
 
-- Use clear, concise headings that describe the content
-- Keep paragraphs short (3-5 sentences maximum)
-- Use bulleted lists for unordered items
-- Use numbered lists for sequential steps
-- Lead with the most important information
-- Create scannable content with descriptive section headings
+- Use semantic HTML elements for proper document structure
+- Maintain a minimum contrast ratio of 4.5:1 for normal text and 3:1 for large text
+- Ensure all interactive elements have visible focus states
+- Provide text alternatives for non-text content
+- Support keyboard navigation for all functionality
+- Respect user preferences with the `prefers-reduced-motion` media query
 
-### SEO Best Practices
-
-Primary keywords to incorporate naturally:
-- STD verification
-- Sexual health verification
-- Testing history
-- Zero-knowledge proofs
-- Privacy-preserving verification
-- LGBTQ+ sexual health
-
-### Inclusive Language
+### Inclusive Communication
 
 - Use gender-neutral language when addressing users collectively
 - Avoid assumptions about gender or sexuality
@@ -397,13 +388,48 @@ Primary keywords to incorporate naturally:
 - Focus on testing frequency rather than results
 - Avoid language that stigmatizes STIs or sexual behavior
 - Frame privacy features as empowering rather than hiding or concealing
+- Consider international audiences and avoid US-centric terminology
 
-## Contact
+### Community Standards
 
-For questions regarding these brand guidelines:
+When contributing to Status.Health, remember:
 
-- Website: [stdverify.org](https://stdverify.org)
-- Email: [support@stdverify.org](mailto:support@stdverify.org)
-- Brand Guidelines Inquiries: [design@stdverify.org](mailto:design@stdverify.org)
+- Be respectful and considerate in all communications
+- Provide constructive feedback
+- Focus on solutions rather than problems
+- Help create a safe space for all community members
+- Follow our [Code of Conduct](CODE_OF_CONDUCT.md)
 
-© 2025 STD Verify, SPC. All rights reserved.
+## Contributing
+
+We welcome community contributions to Status.Health! Here's how you can get involved:
+
+### Code Contributions
+- Fork this repository
+- Create a feature branch (`git checkout -b feature/amazing-feature`)
+- Commit your changes (`git commit -m 'Add some amazing feature'`)
+- Push to the branch (`git push origin feature/amazing-feature`)
+- Open a Pull Request
+
+### Design Contributions
+- Follow the brand guidelines when creating designs
+- Share design concepts or improvements in the Discussions section
+- Consider accessibility in all designs
+
+### Documentation
+- Help improve these guidelines
+- Create tutorials or guides for using Status.Health
+- Translate documentation into other languages
+
+## Community Resources
+
+- **Website**: [stdverify.org](https://stdverify.org)
+- **GitHub Repository**: [github.com/stdverify/status.health](https://github.com/stdverify/status.health)
+- **Community Forum**: [github.com/stdverify/status.health/discussions](https://github.com/stdverify/status.health/discussions)
+- **Issue Tracker**: [github.com/stdverify/status.health/issues](https://github.com/stdverify/status.health/issues)
+
+---
+
+Released under MIT License. See [LICENSE](LICENSE) for details.
+
+Status.Health is a project maintained by STD Verify, SPC.
