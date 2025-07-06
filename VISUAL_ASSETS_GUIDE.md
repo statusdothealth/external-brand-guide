@@ -40,6 +40,39 @@ Minimum clear space = ½ height of logo
 └─────────────────────────┘
 ```
 
+## Logo Variations
+
+### Available Logo Files
+
+#### Primary Logos
+- **logo-dark.svg** - Black logo for light backgrounds
+- **logo-light.svg** - White logo for dark backgrounds
+- **logo-round.svg** - Circular version of the logo
+
+#### Additional Logos
+- **logo-large.svg** - Large format logo for hero sections
+- **logo-large-inverted.svg** - Large format with inverted colors
+- **logo-inverted.svg** - Standard size with inverted colors
+- **icon-light.svg** - Icon-only version for light backgrounds
+- **icon-dark.svg** - Icon-only version for dark backgrounds
+
+#### Favicons and App Icons
+- **favicon.ico** - Multi-resolution favicon (16x16, 32x32, 48x48)
+- **favicon-16x16.png** - 16px favicon
+- **favicon-32x32.png** - 32px favicon
+- **apple-touch-icon.png** - 180x180px iOS app icon
+- **android-chrome-192x192.png** - 192px Android app icon
+- **android-chrome-512x512.png** - 512px Android app icon
+
+### Logo Usage Guidelines
+
+#### When to Use Each Logo
+- **logo-dark.svg**: Default logo for light backgrounds
+- **logo-light.svg**: Use on dark backgrounds or in dark mode
+- **logo-round.svg**: Profile images, social media avatars
+- **logo-large.svg**: Hero sections, landing pages (min 200px width)
+- **icon-*.svg**: When space is limited (under 100px width)
+
 ## Color Specifications
 
 ### Primary Palette
@@ -187,6 +220,8 @@ outline-offset: 2px;
 ## Implementation Examples
 
 ### HTML Logo Implementation
+
+#### Standard Logo
 ```html
 <!-- Light Mode -->
 <img src="/assets/logo-dark.svg" 
@@ -201,6 +236,42 @@ outline-offset: 2px;
      width="160" 
      height="40"
      class="logo-dark">
+```
+
+#### Large Logo (Hero Sections)
+```html
+<img src="/assets/additional logos/logo-large.svg" 
+     alt="status.health - Zero data. Zero risk." 
+     width="320" 
+     height="80"
+     class="logo-hero">
+```
+
+#### Icon Only
+```html
+<!-- Light Mode -->
+<img src="/assets/additional logos/icon-dark.svg" 
+     alt="status.health" 
+     width="40" 
+     height="40"
+     class="icon-light">
+
+<!-- Dark Mode -->
+<img src="/assets/additional logos/icon-light.svg" 
+     alt="status.health" 
+     width="40" 
+     height="40"
+     class="icon-dark">
+```
+
+#### Favicon Implementation
+```html
+<link rel="icon" type="image/x-icon" href="/assets/additional logos/favicon.ico">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/additional logos/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/additional logos/favicon-16x16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/additional logos/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="192x192" href="/assets/additional logos/android-chrome-192x192.png">
+<link rel="icon" type="image/png" sizes="512x512" href="/assets/additional logos/android-chrome-512x512.png">
 ```
 
 ### CSS Theme Implementation
