@@ -1,0 +1,13 @@
+# MacOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must be 32x32px
+Icon
+
+# Thumbnails
+._*
+
+# Temporary files
+~$*
